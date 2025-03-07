@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318771620552",
+    "project_id": "laplace-c64fb",
+    "storage_bucket": "laplace-c64fb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318771620552:android:60a1707a7cc49ef8f093fd",
+        "android_client_info": {
+          "package_name": "com.example.laplace"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbEcc-pv49PXaQ72Ys8gMkAKw76wxbJL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
